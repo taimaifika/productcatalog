@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  productcatalog:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-04T17:05:23.793902723Z"
+    description: A reference example TMFC001-ProductCatalogManagement ODA Component
+    digest: 3fc9ef76b10b68ccfac2ba0f6d1c222a220fdfb0c672ed3dd672521061e08192
+    name: productcatalog
+    type: application
+    urls:
+    - productcatalog-1.2.1.tgz
+    version: 1.2.1
+generated: "2024-09-04T17:05:23.7886812Z"
